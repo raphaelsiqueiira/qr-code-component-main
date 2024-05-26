@@ -21,12 +21,12 @@ O projeto consiste em um componente de código QR desenvolvido como solução pa
 
 ### Captura de Tela
 
-![](./screenshot.jpg)
+![Captura de Tela](image-qr-code.png)
 
 ### Links
 
-- URL da Solução: [Solução](https://your-solution-url.com)
-- URL do Site Ao Vivo: [Site ao Vivo](https://your-live-site-url.com)
+- URL da Solução: [Solução](https://github.com/raphaelsiqueiira/qr-code-component-main)
+- URL do Site Ao Vivo: [Site ao Vivo](https://raphaelsiqueiira.github.io/qr-code-component-main/)
 
 ## Meu processo
 
