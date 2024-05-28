@@ -25,7 +25,7 @@ O projeto consiste em um componente de código QR desenvolvido como solução pa
 
 ### Links
 
-- URL da Solução: [Solução](https://github.com/raphaelsiqueiira/qr-code-component-main)
+- URL da Solução: [Solução](https://www.frontendmentor.io/solutions/qr-code-component-solution-using-flexbox-Hp2yUqohNt)
 - URL do Site Ao Vivo: [Site ao Vivo](https://raphaelsiqueiira.github.io/qr-code-component-main/)
 
 ## Meu processo
