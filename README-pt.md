@@ -91,7 +91,6 @@ Durante o desenvolvimento deste projeto, aperfeiçoei meus conhecimentos em:
 ## Autor
 
 - Frontend Mentor - [@raphaelsiqueiira](https://www.frontendmentor.io/profile/raphaelsiqueiira)
-- X (Twitter) - [@Raphael_4z](https://x.com/Raphael_4z)
 
 ## Agradecimentos
 
