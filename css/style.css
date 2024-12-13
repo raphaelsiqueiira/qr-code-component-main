@@ -35,6 +35,7 @@ main.contant-container {
   max-width: 320px;
   max-height: 500px;
   padding: var(--small-spacing);
+  padding-bottom: 40px;
   background-color: var(--white);
   border-radius: 20px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
