@@ -1,0 +1,17 @@
+# Ignore design files
+*.sketch
+*.fig
+*.xd
+
+# Bypass macOS cache
+.DS_Store
+
+#Dependencies folder
+node_modules/
+design/
+
+#Files
+package-lock.json
+package.json
+postcss.config.json
+preview.jpg
